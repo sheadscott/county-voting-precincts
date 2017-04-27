@@ -1,3 +1,0 @@
-Couldn't find GIS data for voting precincts online. 
-
-Here's a URL for other GIS data: http://www.tad.org/gis-data
