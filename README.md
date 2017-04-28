@@ -1,4 +1,4 @@
-# Project Title
+# County Voting Precincts in GeoJSON
 
 Voting Precinct Maps of Individual Counties
 
