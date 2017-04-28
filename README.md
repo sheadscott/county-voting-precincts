@@ -8,7 +8,7 @@ A collection of voting precinct maps of individual counties in the GeoJSON forma
 
 ## Authors
 
-* **Shea Scott** - *Initial work* - [sheadscott](https://github.com/sheadscott)
+* **Shea Scott** [sheadscott](https://github.com/sheadscott)
 
 ## License
 
