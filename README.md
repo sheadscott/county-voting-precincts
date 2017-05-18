@@ -6,6 +6,8 @@ Voting Precinct Maps of Individual Counties
 
 A collection of voting precinct maps of individual counties in the GeoJSON format. Often precinct maps are provided as Shapefiles (.shp) and must be converted to KML or GeoJSON for use with Google Maps. GeoJSON is the preferred format for Google Maps and is natively displayed in github.  
 
+To reduuce filesize, I recommend converting to TopoJSON [https://github.com/topojson/topojson-server](https://github.com/topojson/topojson-server) which can then be used with Google Maps like this: [http://bl.ocks.org/zross/10654766](http://bl.ocks.org/zross/10654766)
+
 ## Authors
 
 * **Shea Scott** [sheadscott](https://github.com/sheadscott)
