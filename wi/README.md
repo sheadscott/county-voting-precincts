@@ -1,6 +1,6 @@
-# Texas County Voting Precincts in GeoJSON
+# Wisconsin County Voting Wards in GeoJSON
 
-Voting Precinct Maps of Individual Counties in Texas
+Voting Ward  Maps of Individual Counties in Wisconsin
 
 ## About
 
