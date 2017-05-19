@@ -15,7 +15,7 @@ Script to break state GeoJSON file to counties: [_state-to-counties.py](_state-t
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/sheadscott/county-voting-precincts/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
